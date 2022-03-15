@@ -1,8 +1,8 @@
 <h2 align="center">🎓 Something about me 🎓</h2>
 <br>
 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning TypeScript 
+- 👯 I’m looking for an internship position
 - 🥅 2022 Goals: Java and TypeScript
 - 💬 Always open to talking in tech-related-stuff or learning new technology
 - ⚡ Fun fact: I am a music addict and have a passion for guitar
