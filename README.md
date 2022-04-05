@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking for an internship position
-- 🥅 2022 Goals: Java and TypeScript
-- 💬 Always open to talking in tech-related-stuff or learning new technology
+- 🥅 2022 Goals: Gain work experience and improve problem-solving skills
+- 💬 Always open to talking about tech-related-stuff or learning new technology
 - ⚡ Fun fact: I am a music addict and have a passion for guitar
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
