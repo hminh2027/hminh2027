@@ -30,7 +30,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="mysql" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="redis" height="25" /></span>
 &nbsp;
 <br>
 <br>
