@@ -1,7 +1,7 @@
 <h2 align="center">🎓 Something about me 🎓</h2>
 <br>
 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning NestJs 
 - 👯 I’m looking for an internship position
 - 🥅 2022 Goals: Gain work experience and improve problem-solving skills
 - 💬 Always open to talking about tech-related-stuff or learning new technology
