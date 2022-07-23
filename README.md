@@ -1,7 +1,7 @@
 <h2 align="center">🎓 Something about me 🎓</h2>
 <br>
 
-- 🌱 I’m currently learning NestJs 
+- 🌱 I’m currently learning NextJs 
 - 👯 I’m looking for an internship position
 - 🥅 2022 Goals: Gain work experience and improve problem-solving skills
 - 💬 Always open to talking about tech-related-stuff or learning new technology
@@ -11,6 +11,8 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript logo" title="typescript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
@@ -36,6 +38,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="redis" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="tailwind" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs logo" title="nextjs" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma logo" title="prisma" height="25" /></span>
+&nbsp;
+
 <br>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -57,10 +66,10 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/swag.lauch/" target="blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:dackheros@gmail.com" target="top">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
+  <a href="mailto:vhminh2027@gmail.com" target="top">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
