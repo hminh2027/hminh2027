@@ -1,9 +1,8 @@
 <h2 align="center">🎓 Something about me 🎓</h2>
 <br>
 
-- 🌱 I’m currently learning NextJs 
-- 👯 I’m looking for an internship position
-- 🥅 2022 Goals: Gain work experience and improve problem-solving skills
+- 🌱 I’m currently a NodeJS Fresher at FPT Software
+- 🥅 2023 Goals: Gain work experience and improve problem-solving skills
 - 💬 Always open to talking about tech-related-stuff or learning new technology
 - ⚡ Fun fact: I am a music addict and have a passion for guitar
 <br>
