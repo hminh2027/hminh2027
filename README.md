@@ -1,7 +1,6 @@
 <h2 align="center">🎓 Something about me 🎓</h2>
 <br>
 
-- 🌱 I’m currently a NodeJS Fresher at FPT Software
 - 🥅 2023 Goals: Gain work experience and improve problem-solving skills
 - 💬 Always open to talking about tech-related-stuff or learning new technology
 - ⚡ Fun fact: I am a music addict and have a passion for guitar
@@ -15,8 +14,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -27,23 +24,16 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs logo" title="NestJs" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="mysql" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="redis" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="tailwind" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs logo" title="nextjs" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma logo" title="prisma" height="25" /></span>
 &nbsp;
-
 <br>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
