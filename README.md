@@ -54,9 +54,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-<!--   <a href="https://www.facebook.com/swag.lauch/" target="blank">
+  <a href="https://www.facebook.com/swag.lauch/" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a> -->
+  </a>
   <a href="mailto:vhminh2027@gmail.com" target="top">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
