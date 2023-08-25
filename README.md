@@ -3,4 +3,4 @@
 
 - I'm currently working as a **Software Developer** at FPT Software Company
 - Love clean code, refactoring project structure, and following best practices
-- A book lover 📚, a music addict 🎧, and a translator 📝
+- A book lover 📚 A music addict 🎧 A translator 📝
