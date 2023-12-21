@@ -1,6 +1,3 @@
-<h2 align="center">🎓 Introduction 🎓</h2>
+<h2 align="center">🎓 Welcome to my Show 🎓</h2>
 <br>
-
-- I'm currently working as a **Software Developer** at FPT Software Company
-- Love clean code, refactoring project structure, and following best practices
-- A book lover 📚 A music addict 🎧 A translator 📝
+"If coding were a stand-up show, my lines would be so sharp that they compile laughter effortlessly" - a wise prompter from ChatGPT once said.
